@@ -76,3 +76,7 @@ Submit a PR
 [Twitter](https://x.com/Hemathens?t=7_ME_XJMpnQgxkunthVhXw&s=09)
 [Github](https://github.com/hemathens)
 [Linkedin](https://www.linkedin.com/in/hem-patel19?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+## 📜 License
+
+MIT License – see [LICENSE](https://chat.qwen.ai/c/LICENSE?spm=a2ty_o01.29997173.0.0.ff18c921RAA82t) for details.
