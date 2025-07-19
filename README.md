@@ -20,9 +20,19 @@ A beautifully designed static website built with **React + Vite** to showcase th
 
 ## 🛠 Tech Stack
 
-- React
-- Tailwind CSS (or plain CSS)
-- Vite
+| **Technology**         | **Purpose / Where It's Used**                                                                 |
+| ---------------------- | --------------------------------------------------------------------------------------------- |
+| **React.js**           | UI library for building reusable components (used in all pages & components)                  |
+| **Vite**               | Fast development build tool (used to scaffold and serve the app)                              |
+| **Tailwind CSS**       | Utility-first CSS framework for styling (used in all components for modern responsive design) |
+| **React Router**       | Handles navigation between `Home`, `About`, `CreateHemApp`, etc.                              |
+| **Heroicons / Emojis** | Visual icons in sections like Features and Hero                                               |
+| **React Icons**        | For consistent and scalable icon use (optional alternative to emojis)                         |
+| **CSS Modules / SCSS** | Scoped styling (optional if you don’t want global Tailwind only)                              |
+| **Git + GitHub**       | Version control and remote repository hosting                                                 |
+| **Netlify / Vercel**   | Deployment platform for your frontend (free, fast, supports CI/CD)                            |
+| **Prettier + ESLint**  | Code formatting and linting (for clean, consistent code)                                      |
+| **Figma / Penpot**     | (Optional) For designing wireframes before implementation                                     |
 
 ---
 
