@@ -12,6 +12,41 @@ A full-stack open-source project that includes:
 
 ---
 
+## 🧾 Landing Page
+
+A beautifully designed static website built with **React + Vite** to showcase the CLI and its features.
+
+## 🛠 Tech Stack
+
+- React
+- Tailwind CSS (or plain CSS)
+- Vite
+
+---
+
+## 🚀 Deployed at
+
+👉 [https://your-landing.vercel.app ](https://your-landing.vercel.app )
+
+### 📦 How to Run Locally
+
+```bash
+cd landing
+npm install
+npm run dev
+```
+
+## 💻 CLI Tool – create-hem-app
+A Node.js CLI tool that scaffolds front-end or full-stack apps in seconds — just like create-react-app.
+
+✨ Features
+⚡ Instant project scaffolding
+📦 Supports React, Next.js, Tailwind, and more
+🧠 Zero-config setup
+📁 Auto-installs dependencies and initializes Git
+
+---
+
 ## 📁 Folder Structure
 
 ```folder structure:
@@ -39,38 +74,8 @@ create-hem-landing/
 ├── tailwind.config.js
 └── vite.config.js
 ```
+
 ---
-
-## 🧾 Landing Page
-
-A beautifully designed static website built with **React + Vite** to showcase the CLI and its features.
-
-### 🛠 Tech Stack
-
-- React
-- Tailwind CSS (or plain CSS)
-- Vite
-
-### 🚀 Deployed at
-
-👉 [https://your-landing.vercel.app ](https://your-landing.vercel.app )
-
-### 📦 How to Run Locally
-
-```bash
-cd landing
-npm install
-npm run dev
-```
-
-## 💻 CLI Tool – create-hem-app
-A Node.js CLI tool that scaffolds front-end or full-stack apps in seconds — just like create-react-app.
-
-✨ Features
-⚡ Instant project scaffolding
-📦 Supports React, Next.js, Tailwind, and more
-🧠 Zero-config setup
-📁 Auto-installs dependencies and initializes Git
 
 ## 📦 How to Run Locally
 
