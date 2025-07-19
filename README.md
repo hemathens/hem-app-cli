@@ -42,7 +42,7 @@ A beautifully designed static website built with **React + Vite** to showcase th
 
 ---
 
-### 📦 How to Run Locally
+## 📦 How to Run Locally
 
 ```bash
 cd landing
