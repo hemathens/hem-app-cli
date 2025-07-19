@@ -14,12 +14,31 @@ A full-stack open-source project that includes:
 
 ## 📁 Folder Structure
 
-hem-app-cli/
-├── landing/ 👉 React landing page (Vite)
-├── cli/ 👉 CLI tool (Node.js)
-├── README.md 👉 This file
-└── .gitignore
-
+```folder structure:
+create-hem-landing/
+├── public/
+│   ├── cli-example.png
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── FeaturesSection.jsx
+│   │   ├── Footer.jsx
+│   │   ├── HeroSection.jsx
+│   │   ├── Navbar.jsx
+│   │   └── SocialIcons.jsx
+│   ├── pages/
+│   │   ├── About.jsx
+│   │   ├── CreateHemApp.jsx
+│   │   └── Home.jsx
+│   ├── App.jsx
+│   └── index.css
+├── .gitignore
+├── index.html
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.js
+```
 ---
 
 ## 🧾 Landing Page
