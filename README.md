@@ -16,6 +16,8 @@ A full-stack open-source project that includes:
 
 A beautifully designed static website built with **React + Vite** to showcase the CLI and its features.
 
+---
+
 ## 🛠 Tech Stack
 
 - React
@@ -89,6 +91,8 @@ or use npx
 ```npx
 npx create-hem-app my-app
 ```
+
+---
 
 ## 🧪 Want to Contribute?
 We welcome contributors! Whether you're helping with the landing page or CLI, your help is appreciated.
